@@ -10,7 +10,7 @@ MarkupSafe==3.0.2
 mpmath==1.3.0
 networkx==3.4.2
 nms_1d_cpu==0.0.0
-numpy==2.2.6
+numpy==1.26.4
 packaging @ file:///home/task_176104877067765/conda-bld/packaging_1761049113113/work
 pillow==10.4.0
 PyYAML==6.0.3
