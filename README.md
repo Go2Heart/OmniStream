@@ -41,7 +41,7 @@ pip install transformers==4.56.1
 ```
 
 ### Pre-trained Model Usage
-We have uploaded our streamformer pre-trained on *Global*-, *Temporal*- and *Spatial*- granularities to [🤗huggingface](https://huggingface.co/StreamFormer/streamformer-timesformer).
+We have uploaded our pre-trained model to [🤗huggingface](https://huggingface.co/StreamFormer/OmniStream).
 
 #### Inference Usage
 
