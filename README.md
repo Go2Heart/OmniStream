@@ -68,3 +68,15 @@ print(output["hidden_states"][-1].shape) # last layer's hidden states
 print(output["pooler_output"].shape) # cls token
 print(output["patch_start_idx"]) # index of the first patch of each frame (1x[cls] + 4x[reg])
 ```
+
+## Citations
+If you find our work useful, please cite:
+```bibtex
+@article{yan2026omnistreamm
+      title={OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams}, 
+      author={Yibin Yan and Jilan Xu and Shangzhe Di and Haoning Wu and Weidi Xie},
+      journal={arXiv preprint arXiv:2603.12265},
+      year={2026},
+      url={https://arxiv.org/abs/2603.12265}
+}
+```
